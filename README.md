@@ -1,15 +1,9 @@
-# Project File Structure Activity
+# Calculator
 
-![an image of a calculator](assets/calculator.jpg)
+Calculator is a project for performing the following mathematical operations:
+* Addition
+* Subtraction
+* Multiplication
+* Division
 
-For this activity, the objective is to re-organize the files in this repo so they are organized in accordance with best practices.
-
-After re-organizing the files, it will also be necessary to update the imports in the program (.py) files so the tests may run successfully.
-
-To check if the tests are running as expected, run the following command:
-
-```
-python3 -m pytest test_X.py
-```
-
-Replace X with addition, subtraction, multiplication, or division. If the file you are testing is nested in a sub-directory, please remember to cd into the directory before running the command.
+These modules may be used to add, subtract, multiply, and divide two integers.
